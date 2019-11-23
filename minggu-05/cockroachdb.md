@@ -14,13 +14,13 @@ Pada tulisan ini saya akan memaparkan pengalaman saya berkesperimen dengan salah
 **Replika Data**
 <p>Pada eksperimen ini, kita akan mencoba bagaimana data direplikasi pada gugus basis data CockroachDB. Pertama, kita akan menggunakan data sampel yang disediakan oleh CockroachDB</p>
 
-!(tcc/minggu-05/gambar1.jpg)
+![](minggu-05/gambar1.jpg)
 
 <p>memverifikasi bahwa data sampel sudah tersimpan</p>
 
-!(tcc/minggu-05/gambar2.jpg)
+![](minggu-05/gambar2.jpg)
 
 <p>>akan memverifikasi bahwa data yang sama sudah direplikasi secara otomatis oleh CockroachDB ke simpul kedua dan ketiga </p>
 
-!(tcc/minggu-05/gambar3.jpg)
+![](minggu-05/gambar3.jpg)
 
