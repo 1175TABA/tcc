@@ -45,7 +45,7 @@ Secara default, port pada host dipetakan ke 0.0.0.0, yang berarti semua alamat I
 
 <h1>Step 6 - Running A Container In The Foreground</h1>
 
-<p>memungkinkan Anda untuk menimpa perintah yang digunakan untuk meluncurkan gambar. Mampu mengganti perintah default memungkinkan untuk memiliki satu gambar yang dapat digunakan kembali dalam berbagai cara. Sebagai contoh, gambar Ubuntu dapat menjalankan perintah OS atau menjalankan bash prompt interaktif menggunakan / bin / bash</p>
+<p>memungkinkan untuk menimpa perintah yang digunakan untuk meluncurkan gambar. Mampu mengganti perintah default memungkinkan untuk memiliki satu gambar yang dapat digunakan kembali dalam berbagai cara. Sebagai contoh, gambar Ubuntu dapat menjalankan perintah OS atau menjalankan bash prompt interaktif menggunakan / bin / bash</p>
 <p>Docker perintah menjalankan ubuntu ps meluncurkan wadah Ubuntu dan mengeksekusi perintah ps untuk melihat semua proses yang berjalan dalam wadah.</p>
 
 
