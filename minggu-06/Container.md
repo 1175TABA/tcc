@@ -1,4 +1,4 @@
-<h1>Bagian Ke-1</h1>
+<h1><b>BAGIAN KE-1</b></h1> 
 Pengerjaan https://www.katacoda.com/courses/docker/deploying-first-container
 <h1>Step 1 Running A Container</h1>
 
@@ -45,7 +45,7 @@ Secara default, port pada host dipetakan ke 0.0.0.0, yang berarti semua alamat I
 <p>memungkinkan untuk menimpa perintah yang digunakan untuk meluncurkan gambar. Mampu mengganti perintah default memungkinkan untuk memiliki satu gambar yang dapat digunakan kembali dalam berbagai cara. Sebagai contoh, gambar Ubuntu dapat menjalankan perintah OS atau menjalankan bash prompt interaktif menggunakan / bin / bash</p>
 <p>Docker perintah menjalankan ubuntu ps meluncurkan wadah Ubuntu dan mengeksekusi perintah ps untuk melihat semua proses yang berjalan dalam wadah.</p>
 
-<h1>Bagian Ke-2</h1>
+<h1><b>BAGIAN KE-2</b></h1> 
 https://www.katacoda.com/courses/docker/create-nginx-static-web-server
 
 <h1>Step 1 - Create Dockerfile</h1>
@@ -63,8 +63,11 @@ https://www.katacoda.com/courses/docker/create-nginx-static-web-server
 
 ![Step3](https://user-images.githubusercontent.com/54845386/71066680-b0ef1380-21a5-11ea-8723-fba02672a7c8.JPG)
 
-<p></p>
-<p></p>
+<p>Membuka sebuah port dengan menggunakan nginx dan port host yang sudah di tentukan dengan menggunakan curl docker </p>
+
+<h1><b>BAGIAN KE-3</b></h1> 
+https://www.katacoda.com/courses/docker/2
+
 <h1></h1>
 <p></p>
 <p></p>
