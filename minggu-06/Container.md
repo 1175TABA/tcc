@@ -48,7 +48,26 @@ Secara default, port pada host dipetakan ke 0.0.0.0, yang berarti semua alamat I
 <h1>Bagian Ke-2</h1>
 https://www.katacoda.com/courses/docker/create-nginx-static-web-server
 
+<h1>Step 1 - Create Dockerfile</h1>
+<p>didefinisikan sebagai instruksi dalam Dockerfile. Gambar Docker dibangun berdasarkan konten Dockerfile. Dockerfile adalah daftar instruksi yang menjelaskan cara menggunakan aplikasi </p>
 
+![Step1](https://user-images.githubusercontent.com/54845386/71065806-8b153f00-21a4-11ea-83cd-da34069cac25.JPG)
 
+<h1>Step 2 - Build Docker Image</h1>
+
+![Step2](https://user-images.githubusercontent.com/54845386/71065957-e21b1400-21a4-11ea-8591-70333c967904.JPG)
+
+<p>Dockerfile digunakan oleh perintah pembangunan Docker CLI. Perintah build mengeksekusi setiap instruksi dalam Dockerfile. Hasilnya adalah Gambar Docker bawaan yang dapat diluncurkan dan menjalankan aplikasi yang dikonfigurasi.</p>
+
+<h1>Step 3 - Run</h1>
+
+![Step3](https://user-images.githubusercontent.com/54845386/71066680-b0ef1380-21a5-11ea-8723-fba02672a7c8.JPG)
+
+<p></p>
+<p></p>
+<h1></h1>
+<p></p>
+<p></p>
+<h1></h1>
 <p></p>
 <p></p>
