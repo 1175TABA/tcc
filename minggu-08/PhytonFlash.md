@@ -10,6 +10,7 @@ terimakasih </p>
 
 <h3>berikut yang sudah di perbaiki masih python dan flask</h3>
 
+
 ![WhatsApp Image 2019-12-18 at 12 44 51](https://user-images.githubusercontent.com/54845386/71142873-b28cfb80-21e6-11ea-8dc3-5929be6cbc63.jpeg)
 
 ![WhatsApp Image 2019-12-18 at 13 04 04](https://user-images.githubusercontent.com/54845386/71142878-b6b91900-21e6-11ea-8042-c9124389759c.jpeg)
