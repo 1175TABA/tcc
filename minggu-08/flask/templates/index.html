@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <!-- for in flask with jinja2 -->
+        {% for data in nilai %}
+            <li>{{data}}</li>
+        {% endfor %}
+    </div>
+
+    <!-- condition in flask with jinja2 -->
+    <div>
+        {% if condition == "happy" %}
+            <p>i am so happy</p>
+        {% else %}
+            <p>i am not happy</p>
+        {% endif %}
+    </div>
+    
+</body>
+</html>
